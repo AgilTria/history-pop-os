@@ -1,0 +1,249 @@
+ 1  nautilus
+    2  sudo nautilus
+    3  lsb_realese -a
+    4  lsb_release -a
+    5  clear
+    6  sudo apt install gnome-tweaks
+    7  sudo apt install gnome-shell-extensions
+    8  chrome
+    9  firefox
+   10  clear
+   11  sudo apt screenfetch
+   12  sudo apt install screenfetch
+   13  nano .bashrc
+   14  code --version
+   15  apt-get install git 
+   16  sudo su
+   17  ls
+   18  mkdir Neuversity
+   19  cd Neuversity
+   20  mkdir WEB3
+   21  mkdir Backend
+   22  cd WEB3
+   23  reframe anvie/basic-rust
+   24  cargo install reframe
+   25  export PATH=$PATH:/home/agil/.cargo/bin
+   26  reframe anvie/basic-rust
+   27  clear
+   28  chmod 755 xampp-linux-*-installer.run
+   29  ls
+   30  chmod 755 xampp-linux-*-installer.run
+   31  sudo ./xampp-linux-*-installer.run
+   32  sudo /opt/lampp/lampp start
+   33  code .
+   34  cd Neuversity/
+   35  ls
+   36  cd Backend/
+   37  ls
+   38  mkdir Intro_PHP
+   39  Intro_PHP/
+   40  cd Intro_PHP/
+   41  code .
+   42  ls
+   43  sudo /opt/lampp/lampp stop
+   44  ls
+   45  cd Downloads/
+   46  ls
+   47  unzip my-web-app
+   48  ls
+   49  cd Downloads/
+   50  ls
+   51  unzip my-web-app
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd Templates/
+   56  ls
+   57  cd my-web-app/
+   58  ls
+   59  code .
+   60  cd ..
+   61  ls
+   62  cd Arsha/
+   63  code .
+   64  ls
+   65  cd Neuversity/
+   66  ls
+   67  Backend
+   68  cd Backend/
+   69  la
+   70  cd Intro_PHP/
+   71  ls
+   72  cd ..
+   73  ls Backend/
+   74  ls WEB3/
+   75  sudo /opt/lampp/lampp stop
+   76  sudo /opt/lampp/lampp start
+   77  cd /opt/lampp/htdocs/
+   78  ls
+   79  cd belajar/
+   80  ls
+   81  code .
+   82  direktory
+   83  direktori
+   84  hitory
+   85  history
+   86  cd Neuversity/
+   87  cd WEB3/
+   88  ls
+   89  reframe -ls
+   90  reframe
+   91  reframe anvie -ls
+   92  reframe ls -all
+   93  reframe anvie/basic-rust
+   94  cargo install reframe
+   95  ls
+   96  cd aplikasi/
+   97  ls
+   98  cd ..
+   99  ls
+  100  unzip reframe-0.5.2.zip 
+  101  ls
+  102  reframe
+  103  cd reframe
+  104  node -v
+  105  yarn -v
+  106  widget https://github.com/Ansvia/reframe/releases/download/v0.5.2/reframe-0.5.2-x86_64-linux-static.zip
+  107  widget https://github.com/Ansvia/reframe/releases/download/v0.5.2/reframe-0.5.2-x86_64-linux-static.zip
+  108  sudo apt install perl-tk
+  109  widget https://github.com/Ansvia/reframe/releases/download/v0.5.2/reframe-0.5.2-x86_64-linux-static.zip
+  110  ./reframe-0.5.2-linux-static
+  111  /reframe-0.5.2-linux-static
+  112  ./reframe-0.5.2
+  113  /reframe-0.5.2
+  114  cargo install reframe
+  115  export PATH="$HOME/home/agil/.cargo/bin:$PATH" 
+  116  reframe -ls
+  117  reframe
+  118  reframe anvie/basic-rust
+  119  export PATH="$HOME/home/agil/.cargo/bin:$PATH" 
+  120  reframe anvie/basic-rust
+  121  export PATH="/home/agil/.cargo/bin:$PATH" 
+  122  reframe anvie/basic-rust
+  123  ls
+  124  reframe -ls
+  125  reframe -all
+  126  reframe ls
+  127  -ls reframe
+  128  reframe --list
+  129  cd ..
+  130  ls
+  131  cd Backend/
+  132  ls
+  133  cd Intro_PHP/
+  134  ls
+  135  sudo /opt/lampp/lampp start
+  136  ls
+  137  code .
+  138  cd /opt/lampp/htdocs/
+  139  ls
+  140  cd belajar/
+  141  ls
+  142  code .
+  143  sudo /opt/lampp/lampp stop
+  144  hitory
+  145  history
+  146  sudo /opt/lampp/lampp start
+  147  cd /opt/lampp/htdocs/
+  148  ls
+  149  cd belajar/
+  150  ls
+  151  code .
+  152  sudo /opt/lampp/lampp stop
+  153  sudo /opt/lampp/lampp start
+  154  cd /opt/lampp/htdocs/
+  155  cd belajar/
+  156  code .
+  157  sudo /opt/lampp/lampp stop
+  158  history
+  159  wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+  160  sudo apt-get install gnupg
+  161  wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+  162  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+  163  sudo apt-get update
+  164  sudo apt-get install -y mongodb-org
+  165  sudo systemctl start mongod
+  166  ps --no-headers -o comm 1
+  167  sudo systemctl start mongod
+  168  wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+  169  mongod
+  170  sudo apt-get install gnupg
+  171  wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+  172  ok
+  173  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+  174  sudo apt-get update
+  175  sudo apt-get install -y mongodb-org
+  176  sudo apt install libssl1.1
+  177  echo "deb http://security.ubuntu.com/ubuntu focal-security main" | sudo tee /etc/apt/sources.list.d/focal-security.list
+  178  sudo apt-get update
+  179  sudo apt-get install libssl1.1
+  180  rm /etc/apt/sources.list.d/focal-security.list
+  181  sudo apt-get install -y mongodb-org
+  182  sudo systemctl start mongod
+  183  sudo systemctl daemon-reload
+  184  mongod
+  185  cargo install reframe
+  186  export PATH="/home/agil/.cargo/bin:$PATH"
+  187  cd Neuversity/
+  188  cd WEB3/
+  189  ls
+  190  reframe list
+  191  reframe --list
+  192  reframe anvie/nemo2
+  193  cd aplikas-new
+  194  cd aplikasi-new/
+  195  yarn
+  196  code .
+  197  yarn dev
+  198  cd Downloads/
+  199  ls
+  200  cd my-web-app/
+  201  ls
+  202  code .
+  203  php oop.php
+  204  sudo apt install php8.1-cli
+  205  php oop.php
+  206  cd new
+  207  cd New/
+  208  php oop.php
+  209  php abstract.php 
+  210  cd ..
+  211  php oop.php
+  212  ls
+  213  cd New/
+  214  ls
+  215  php oop.php
+  216  php tugasOOp.php
+  217  php tugasOOP.php 
+  218  clear
+  219  php tugasOOP.php 
+  220  clear
+  221  php tugasOOP.php 
+  222  clear
+  223  php tugasOOP.php 
+  224  sudo /opt/lampp/lampp start
+  225  cd /opt/lampp/htdocs/
+  226  cd belajar/
+  227  ls
+  228  code .
+  229  history
+  230  sudo fdisk -l
+  231  sudo umount 
+  232  sudo umount /dev/sda1
+  233  sudo mkfs.vfat /dev/sda1
+  234  sudo fdisk -l
+  235  sudo umount /dev/sda3 
+  236  sudo mkfs.vfat /dev/sda3 
+  237  sudo fdisk -l
+  238  sudo umount /dev/sda2 
+  239  sudo fdisk -l
+  240  sudo umount /dev/sda2 
+  241  sudo umount/dev/sda2 
+  242  sudo umount /dev/sda3
+  243  sudo mkfs.vfat /dev/sda3
+  244  sudo umount /dev/sda1
+  245  sudo mkfs.vfat /dev/sda1
+  246  add-apt-repository ppa:nilarimogard/webupd8
+  247  sudo su
+  248  history
+
